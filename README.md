@@ -1,2 +1,2 @@
 # testing
-testing repo telugu sassdfsdfsdfsdf
+testing repo telugu sassdfsd
