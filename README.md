@@ -1,2 +1,2 @@
 # testing
-testing repo telugu sassdfsd
+testing repo telugu teluguhub
