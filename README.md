@@ -1,2 +1,2 @@
 # testing
-testing repo telugu skillhub new lines created
+testing repo telugu skillhub new lines deleted
